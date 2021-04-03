@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">TestingIntent</string>
+    <string name="app_name">Tugas Intent</string>
     <string name="pilih">Pilih Gambar</string>
     <string name="img">image</string>
-    <string name="img">image</string>
-    <string name="img">image</string>
+    <string name="reset">Hapus Foto</string>
+    <string name="buka">BUKA GALERI</string>
+    <string name="judul">Judul Foto</string>
 </resources>
