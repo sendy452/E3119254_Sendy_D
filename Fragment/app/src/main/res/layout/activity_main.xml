@@ -22,7 +22,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Fragment 1"
+            android:text="@string/fragment_1"
             app:backgroundTint="#01DFCA" />
 
         <Button
@@ -30,7 +30,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Fragment 2"
+            android:text="@string/fragment_2"
             app:backgroundTint="#01DFCA" />
 
     </LinearLayout>
