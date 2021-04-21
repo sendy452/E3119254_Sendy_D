@@ -29,7 +29,7 @@ public class Main2Activity extends Activity {
 
 
     public void getPublic(View view) {
-        File folder = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS);
+        File folder = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
         File myFile = new File(folder, "myData1.txt");
         String text = getdata(myFile);
         if (text != null) {
