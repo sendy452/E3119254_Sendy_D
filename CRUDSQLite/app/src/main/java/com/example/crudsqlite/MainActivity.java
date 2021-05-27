@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     protected Cursor cursor;
     String[] daftar;
     ListView ListView01;
-    Menu menu;
     DataHelper dbcenter;
 
     @Override
